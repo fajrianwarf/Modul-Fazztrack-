@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<head>
+    <title>Latihan HTML dasar : 4 feb 2021</title>
+</head>
+<body>
+    <p>hello HTML</p>
+
+    List buah
+    <ol>
+        <li>Apel</li>
+        <li>Belimbing</li>
+        <li>Ceri</li>
+        <li>Duku</li>
+    </ol>
+    <ul>
+        <li>Apel</li>
+        <li>Belimbing</li>
+        <li>Ceri</li>
+        <li>Duku</li>
+    </ul>
+</body>
+</html>
